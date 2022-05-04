@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c13c152af19980847bb7cb7cf8f94365, type: 3}
+  m_Name: SuperHeroisFase1
+  m_EditorClassIdentifier: 
+  perguntas:
+  - infoPergunta: "Sua \xFAnica arma \xE9 o escudo e seu traje inspirado na bandeira
+      dos Estados Unidos "
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: a83860daefd518443a4720016df68d6a, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Homem Formiga
+    - "Capit\xE3o America"
+    respostaCorreta: "Capit\xE3o America"
+  - infoPergunta: "Deus n\xF3rdico do trov\xE3o, tinha um martelo chamado Mjolnir"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 2e34855a215576443a39b58a15755a1b, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Superman
+    - Thor
+    respostaCorreta: Thor
+  - infoPergunta: "Durante a guerra do Vietn\xE3, foi v\xEDtima de uma explos\xE3o.
+      Dono das ind\xFAstrias Stark, criou sua pr\xF3pria armadura"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 74932aaad0f8f3646bc19674a345e5a5, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Hulk
+    - "Capit\xE3o Am\xE9rica"
+    respostaCorreta: "Capit\xE3o Am\xE9rica"
+  - infoPergunta: "Criou a liga da justi\xE7a.Filha da Rainha Hip\xF3lita. Poderosas
+      defensoras da paz e da igualdade "
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 1b784506dd1220e44bd5eacfbde072b3, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Batman
+    - Mulher Maravilha
+    respostaCorreta: Mulher Maravilha
+  - infoPergunta: Ele nasceu em Krypton, aterrissou na Terra na cidade de Smallville
+      no Texas
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 0c547bb122abd4b4f86773e8634164d8, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - "Capit\xE3o Am\xE9rica"
+    - Superman
+    respostaCorreta: Superman
+  categoryName: 

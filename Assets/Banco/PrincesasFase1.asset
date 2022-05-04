@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c13c152af19980847bb7cb7cf8f94365, type: 3}
+  m_Name: PrincesasFase1
+  m_EditorClassIdentifier: 
+  perguntas:
+  - infoPergunta: "Ela \xE9 corajosa e  se alista no lugar de seu pai no ex\xE9rcito
+      chin\xEAs, quando os Hunos invadem a China"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: a16f0063d54fb0c47a24154b69b507db, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Mulan
+    - Rapunzel
+    respostaCorreta: Mulan
+  - infoPergunta: "Ele gosta de abra\xE7os quentinhos"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: d7f11170a86f94746b0d91392513baf6, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Olaf
+    - Linguado
+    respostaCorreta: Olaf
+  - infoPergunta: Uma princesa que encontrou sete amigos verdadeiros
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 7c296cbe592e59f47999811b275b46a0, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Branca de Neve
+    - Ariel
+    respostaCorreta: Branca de Neve
+  - infoPergunta: "Ela tinha v\xE1rios amigos na floresta, que ajudaram a fazer um
+      vestido para o baile"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 5ab114f92bb2ad3469099fbf676632fb, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Cinderela
+    - Sofia
+    respostaCorreta: Cinderela
+  - infoPergunta: "Em castelo m\xE1gico conheceu a fera, assustadora, mas era gentil
+      e sens\xEDvel"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: afe3e8eea3dd92742ba88ba2f49dc891, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Tiana
+    - Bela
+    respostaCorreta: Bela
+  categoryName: 

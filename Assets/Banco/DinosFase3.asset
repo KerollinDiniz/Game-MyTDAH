@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c13c152af19980847bb7cb7cf8f94365, type: 3}
+  m_Name: DinosFase3
+  m_EditorClassIdentifier: 
+  perguntas:
+  - infoPergunta: "Foi o maior dinossauro carn\xEDvoro?"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 2216062caf38fc546ab30fd731fa1b77, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Espinossauro
+    - Veloceraptor
+    respostaCorreta: Espinossauro
+  - infoPergunta: "Primeiro g\xEAnero de dinossauro conhecido?"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 7fa4e68f988eee545854fad4b7020b6d, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - T Rex
+    - Eoraptor
+    respostaCorreta: Eoraptor
+  - infoPergunta: 'Um dos mais raros dinossauros conhecidos '
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 4da8a4c2112f8d74a884d8ba0e804d33, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Baryonyx
+    - "Tricer\xE1tops"
+    respostaCorreta: Baryonyx
+  - infoPergunta: "Considerado um dos mais inteligentes dinossauros e um \xF3timo
+      ca\xE7ador "
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: b4a4452e53b0cfb4ab11ded988201a73, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Troodon
+    - Indoraptor
+    respostaCorreta: Troodon
+  - infoPergunta: ' Pequenos e agressivos com suas garras enormes e afiadas?'
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 7077f29eb5231a44c821dd8dba898fa8, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - T Rex
+    - Dromaeosaurid
+    respostaCorreta: Dromaeosaurid
+  categoryName: 

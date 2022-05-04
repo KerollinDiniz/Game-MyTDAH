@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c13c152af19980847bb7cb7cf8f94365, type: 3}
+  m_Name: DinosFase1
+  m_EditorClassIdentifier: 
+  perguntas:
+  - infoPergunta: "Passava a maior parte do dia comendo folhas de suas \xE1rvores
+      prediletas"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 0369f7d09d88e9d489bf5fb67dc1678b, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Braquiossauro
+    - T Rex
+    respostaCorreta: Braquiossauro
+  - infoPergunta: Tinha a mordida mais poderosa do planeta
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: d974c65369ee049479702c846863fb46, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - T Rex
+    - Indoraptor
+    respostaCorreta: T Rex
+  - infoPergunta: Seu nome significa lagarto coberto
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 02942552dd001ff41956ce74a02222e8, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - "Pterod\xE1ctilo"
+    - Estegossauro
+    respostaCorreta: Estegossauro
+  - infoPergunta: "Um dos mais antigos dinossauros conhecidos, carn\xEDvoro e semib\xEDpede"
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: c0eab865f4ba09246a2efe4b26b472a3, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - Estauricossauro
+    - Diplodoco
+    respostaCorreta: Estauricossauro
+  - infoPergunta: Eram dinossauros parecidos com os atuais rinocerontes
+    tipoPergunta: 1
+    perguntaImg: {fileID: 21300000, guid: 07174cb96ebfb444bae25d8de9c7e7ec, type: 3}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 0}
+    opcoes:
+    - T Rex
+    - Triceratops
+    respostaCorreta: Triceratops
+  categoryName: 

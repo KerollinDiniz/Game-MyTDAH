@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c13c152af19980847bb7cb7cf8f94365, type: 3}
+  m_Name: SuperHeroiAvancado
+  m_EditorClassIdentifier: 
+  perguntas:
+  - infoPergunta: "Ele est\xE1 pronto para salvar o mundo"
+    tipoPergunta: 2
+    perguntaImg: {fileID: 0}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 32900000, guid: db690819b09aa564a9c8ff510941065a, type: 3}
+    opcoes:
+    - "Capit\xE3o Am\xE9rica"
+    - Superman
+    respostaCorreta: "Capit\xE3o Am\xE9rica"
+  - infoPergunta: "Ele sempre foi muito estudioso, desenvolveu seu pr\xF3prio traje"
+    tipoPergunta: 2
+    perguntaImg: {fileID: 0}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 32900000, guid: 6e14c926cf36f8045847a472750a3e23, type: 3}
+    opcoes:
+    - Homem aranha
+    - Superman
+    respostaCorreta: Homem aranha
+  - infoPergunta: "Este \xE9 o lar do Pantera Negra"
+    tipoPergunta: 2
+    perguntaImg: {fileID: 0}
+    perguntaClip: {fileID: 0}
+    perguntaVideoC: {fileID: 32900000, guid: 23dbe80be4c63bf4eb920be7731302b7, type: 3}
+    opcoes:
+    - Wakanda
+    - Nova York
+    respostaCorreta: Wakanda
+  categoryName: 
